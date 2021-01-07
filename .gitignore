@@ -1,3 +1,11 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -22,10 +30,7 @@ var/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -127,3 +132,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+

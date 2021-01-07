@@ -1,0 +1,7 @@
+README.md
+setup.py
+SEGMENTATION_PYTORCH.egg-info/PKG-INFO
+SEGMENTATION_PYTORCH.egg-info/SOURCES.txt
+SEGMENTATION_PYTORCH.egg-info/dependency_links.txt
+SEGMENTATION_PYTORCH.egg-info/requires.txt
+SEGMENTATION_PYTORCH.egg-info/top_level.txt
