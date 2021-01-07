@@ -27,22 +27,22 @@ $ pip uninstall SEGMENTATION_PYTORCH
 ## Dataset preparation
 It assumes a preprocess dataset with images and labels in numpy format.
 - __numpy\_dataset__
-   - [list.md](list.md)
+   - [list.md]
    - __train__
      - __image__
-       - [0.npy](train/image/0.npy)
-       - [1.npy](train/image/1.npy)
-       - [2.npy](train/image/2.npy)
-       - [3.npy](train/image/3.npy)
-       - [4.npy](train/image/4.npy)
-       - [5.npy](train/image/5.npy)
+       - [0.npy]
+       - [1.npy]
+       - [2.npy]
+       - [3.npy]
+       - [4.npy]
+       - [5.npy]
      - __label__
-       - [0.npy](train/label/0.npy)
-       - [1.npy](train/label/1.npy)
-       - [2.npy](train/label/2.npy)
-       - [3.npy](train/label/3.npy)
-       - [4.npy](train/label/4.npy)
-       - [5.npy](train/label/5.npy)
+       - [0.npy]
+       - [1.npy]
+       - [2.npy]
+       - [3.npy]
+       - [4.npy]
+       - [5.npy]
 
 
 ## Running the code
