@@ -27,7 +27,6 @@ $ pip uninstall SEGMENTATION_PYTORCH
 ## Dataset preparation
 It assumes a preprocess dataset with images and labels in numpy format.
 - __numpy\_dataset__
-   - [list.md]
    - __train__
      - __image__
        - [0.npy]
@@ -43,6 +42,12 @@ It assumes a preprocess dataset with images and labels in numpy format.
        - [3.npy]
        - [4.npy]
        - [5.npy]
+
+The following gives an example of converting Cityscapes image dataset to Cityscapes numpy dataset.
+```bash
+$ cat <root_dir>/segmentation_pytorch/datasets/preprocess_example.py
+```
+You should construct you custom dataset in the similar way.
 
 
 ## Running the code
